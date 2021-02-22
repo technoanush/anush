@@ -3,8 +3,8 @@ body {
 }
 
 .nkar, .nkar2 {
-	width: 55px;
-	height: 55px;
+	width: 35px;
+	height: 35px;
 }
 
 .menu{
@@ -17,12 +17,14 @@ body {
  font-family: 'Heebo', sans-serif;
   text-align:center;
 }
+.help{
+	width: 180px;
+}
 
 #container {
-  font-size:36px;
+  font-size:25px;
   font-weight:bold; 
   width:100%;
-  bottom:45%;
   display:block;
 }
 
@@ -52,7 +54,7 @@ body {
   66% {margin-top:-90px;}
   71% {margin-top:0px;}
   99.99% {margin-top:0px;}
-  100% {margin-top:-270px;}
+  100% {margin-top:270px;}
 }
 
 p {
