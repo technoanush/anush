@@ -19,8 +19,13 @@ body {
 }
 .help{
 	width: 180px;
+  border: 1px solid #323232;
+  padding: 10px;
+  box-shadow: 5px 10px 18px black;
 }
-
+.help:hover, .help:active {
+	  box-shadow: 5px 10px 20px black inset;
+}
 #container {
   font-size:25px;
   font-weight:bold; 
