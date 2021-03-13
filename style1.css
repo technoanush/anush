@@ -5,7 +5,7 @@ body {
   margin:0;
   padding:0;
   font-family: sans-serif;
-  background-image: linear-gradient(to right, rgba(90, 17, 134 ), rgba(130, 17, 134  ));
+  background-image: linear-gradient(to bottom, #A887C4, #662D91);
 }
 
 .login-box {
@@ -192,4 +192,9 @@ body {
 
     .registr:link, .registr:visited {
   color: #EAB8FD ;
+}
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+.vernagir{
+font-family: 'Ubuntu', sans-serif;
+color: white;
 }
