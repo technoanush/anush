@@ -5,10 +5,11 @@ body {
   margin:0;
   padding:0;
   font-family: sans-serif;
-  background-image: linear-gradient(to bottom, #A887C4, #662D91);
+  background-image: linear-gradient(to right, rgba(99, 95, 171 ), rgba(102, 45, 145 ));
 }
 
 .login-box {
+  z-index: -1;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -197,4 +198,9 @@ body {
 .vernagir{
 font-family: 'Ubuntu', sans-serif;
 color: white;
+}
+
+.radzio{
+position:relative;
+display:inline-block;
 }

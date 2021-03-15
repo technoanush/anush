@@ -1,0 +1,19 @@
+.nkar, .nkar2 {
+	width: 35px;
+	height: 35px;
+}
+
+.menu{
+	border: none;
+}
+
+.heading{
+  background-image: linear-gradient(to right, rgba(99, 95, 171 ), rgba(102, 45, 145 ));
+}
+
+.domest{
+	color: #37065D;
+}
+.about{
+font-family: 'Lato', sans-serif;
+}

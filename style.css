@@ -1,5 +1,5 @@
 body {
-  background-image: linear-gradient(to right, rgba(102, 45, 145), rgba(137, 60, 195 ));
+  background-image: linear-gradient(to right, rgba(99, 95, 171 ), rgba(102, 45, 145 ));
 }
 
 .nkar, .nkar2 {
@@ -79,10 +79,11 @@ p {
 	font-family: 'Lato', sans-serif;
 }
 .knopkeq{
-  font-size: 25px;
+  font-size: 22px;
 }
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 .vernagir{
 font-family: 'Ubuntu', sans-serif;
 color: white;
 }
+
